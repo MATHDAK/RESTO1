@@ -32,7 +32,7 @@ export class Header extends Component {
                     offset={-headerHeight} 
                     className="logo"
                 > 
-                    <i className="fas fa-utensils"></i> nourriture 
+                    <i className="fas fa-utensils"></i> L'AVENIR 
                 </Link>
                 
                 {/* NAVIGATION */}
